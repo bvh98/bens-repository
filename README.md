@@ -17,3 +17,6 @@ As you once said:
 [Need help coding?](https://it.uni.edu/staff/peter-yezek)
 \*this guy will really help you out\*
 
+function test() {
+ console.log("I love code");
+}
