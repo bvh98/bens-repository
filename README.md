@@ -17,6 +17,12 @@ As you once said:
 [Need help coding?](https://it.uni.edu/staff/peter-yezek)
 \*this guy will really help you out\*
 
+```javascript
+function test() {
+ console.log("I love code");
+}
+```
+
 function test() {
  console.log("I love code");
 }
