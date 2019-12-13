@@ -23,6 +23,10 @@ function test() {
 }
 ```
 
-function test() {
- console.log("I love code");
-}
+**Daily Checklist**
+- [x] Wake up
+- [x] Eat breakfast
+- [x] Go to class
+- [ ] Do homework in a timely manner
+
+
