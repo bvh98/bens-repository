@@ -8,4 +8,6 @@
   * More coding termonology
   * Star Trek
   
+As you once said:
+ > Coding is all about copying. If you don't know how to do it, copy someone that does! It's a beautiful thing.
  
