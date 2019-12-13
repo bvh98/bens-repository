@@ -23,10 +23,10 @@ function test() {
 }
 ```
 
-**Daily Checklist**
+**Daily Checklist:**
 - [x] Wake up
 - [x] Eat breakfast
 - [x] Go to class
-- [ ] Do homework in a timely manner
-
+- [ ] Do homework in a timely manner GitHub supports emoji!
+:metal: 
 
