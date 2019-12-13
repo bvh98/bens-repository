@@ -1,6 +1,6 @@
 # bens-repository </h1>
 
-## Welcome to my site, dude! </h2>
+## Welcome to my site, dude! emoji! :metal:  </h2>
 @manicsparkle
 
 *What did I **learn** in this class?* 
@@ -27,6 +27,5 @@ function test() {
 - [x] Wake up
 - [x] Eat breakfast
 - [x] Go to class
-- [ ] Do homework in a timely manner GitHub supports emoji!
-:metal: 
+- [ ] Do homework in a timely manner
 
