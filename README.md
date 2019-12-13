@@ -1,6 +1,6 @@
 # bens-repository </h1>
 
-## Welcome to my site, dude! emoji! :metal:  </h2>
+## Welcome to my site, dude! :metal:  </h2>
 @manicsparkle
 
 *What did I **learn** in this class?* 
@@ -29,3 +29,7 @@ function test() {
 - [x] Go to class
 - [ ] Do homework in a timely manner
 
+School Day | No School
+------------ | -------------
+Tuesday | Monday
+Thursday | Wednesday + Friday
