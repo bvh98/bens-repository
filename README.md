@@ -13,3 +13,5 @@ As you once said:
  
 ![Uni Logo](https://github.com/bvh98/bens-repository/issues/1#issue-537357007)
 
+http://github.com - automatic!
+[Need help coding](https://it.uni.edu/staff/peter-yezek)
