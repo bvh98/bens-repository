@@ -29,7 +29,7 @@ function test() {
 - [x] Go to class
 - [ ] Do homework in a timely manner
 
-School Day | No School
+School | No School
 ------------ | -------------
 Tuesday | Monday
 Thursday | Wednesday + Friday
